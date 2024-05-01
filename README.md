@@ -26,8 +26,8 @@ This project implements a visually appealing and fully responsive feature sectio
 
 ### Links
 
-- Solution URL: [FEM-Four-Card-Feature-Section](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-htmlcss-IUI00LW7Uy)
-- Live Site URL: [FEM-Four-Card-Feature-Section](https://dz-blog-preview-card.netlify.app/)
+- Solution URL: [FEM-Four-Card-Feature-Section](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-css-grid-_0WOTSBZQf)
+- Live Site URL: [FEM-Four-Card-Feature-Section](https://dz-four-card-feature-section.netlify.app/)
 
 ### Built with
 
@@ -44,7 +44,7 @@ This project implements a visually appealing and fully responsive feature sectio
 1. **Clone the repository**:
 
 ```git
-   git clone https://github.com/your-username/FEM-Four-Card-Feature-Section.git
+   git clone https://github.com/hichamweblog/FEM-Four-Card-Feature-Section.git
 ```
 
 2. **Navigate to the Project Folder**:
